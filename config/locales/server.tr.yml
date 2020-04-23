@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    onesignal_push_enabled: "OneSignal Bildirimlerini Aktif Et"
+    onesignal_app_id: "OneSignal Uygulama No"
+    onesignal_rest_api_key: "OneSignal REST API Anahtarı"
